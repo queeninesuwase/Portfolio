@@ -1,0 +1,17 @@
+node_modules/
+.next/
+out/
+.env
+.env.*
+!.env.example
+.DS_Store
+*.log
+*.tsbuildinfo
+
+*.backup
+.env
+.env.*
+!.env.example
+.next/
+node_modules/
+*.tsbuildinfo
